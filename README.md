@@ -1,7 +1,11 @@
 # AI for Wireless Communications
 
 ## Introduction
-This repository contains a curated list of papers focusing on the application of AI techniques, such as Graph Neural Networks (GNN), Deep Reinforcement Learning (DRL), and Deep Neural Networks (DNN), for wireless communication. The papers are organized by year and category. Where available, links to the corresponding code repositories are also provided. **The content continues updating.**
+This repository contains a curated list of papers focusing on the application of AI techniques, such as **Graph Neural Networks (GNN)**, **Deep Reinforcement Learning (DRL)**, and **Multi-Layer Perceptron (MLP)**, for wireless communication. The papers are organized by year and category, and include tags for relevant features such as citation count and code availability. **The content continues updating.**
+
+## Features
+- **🔥** – Highly Cited (20+ citations)
+- **🧑‍💻** – Code available
 
 ## Categories
 - [GNN (Graph Neural Networks)](#gnn)
