@@ -4,9 +4,12 @@
 This repository contains a curated list of papers focusing on the application of AI techniques, such as **Graph Neural Networks (GNN)**, **Deep Reinforcement Learning (DRL)**, and **Multi-Layer Perceptron (MLP)**, for wireless communication. The papers are organized by year and category, and include tags for relevant features such as citation count. **The content continues updating.**
 
 ## Keywords
-__`(i)iot.`__: (industrial) internet of thing  
-__`ns.`__: network slicing &emsp; | &emsp; __`ris.`__: reconfigurable intelligent surface | &emsp; __`(i)iot.`__: (industrial) internet of thing  
-__`ee.`__: max energy efficiency &emsp; | &emsp; __`sum.`__: max sum rate &emsp; | &emsp; __`pow.`__: min power  
+
+|  Background  |  Techniques  |  Goals  |
+|------------- |-------------|-------------|
+| **`(i)iot.`**: (industrial) internet of thing | **`ns.`**: network slicing | **`ee.`**: max energy efficiency |
+| | **`ris.`**: reconfigurable intelligent surface | **`sum.`**: max sum rate |
+|||**`pow.`**: min power|
 
 Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
 
