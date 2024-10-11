@@ -3,9 +3,12 @@
 ## Introduction
 This repository contains a curated list of papers focusing on the application of AI techniques, such as **Graph Neural Networks (GNN)**, **Deep Reinforcement Learning (DRL)**, and **Multi-Layer Perceptron (MLP)**, for wireless communication. The papers are organized by year and category, and include tags for relevant features such as citation count. **The content continues updating.**
 
-## Features
-- **🔥** – Highly Cited (20+ citations)
-- **📖** – Review Paper
+## Keywords
+__`(i)iot.`__: (industrial) internet of thing  
+__`ns.`__: network slicing &emsp; | &emsp; __`ris.`__: reconfigurable intelligent surface | &emsp; __`(i)iot.`__: (industrial) internet of thing  
+__`ee.`__: max energy efficiency &emsp; | &emsp; __`sum.`__: max sum rate &emsp; | &emsp; __`pow.`__: min power  
+
+Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
 
 ## Categories
 - [GNN (Graph Neural Networks)](#gnn)
@@ -17,15 +20,10 @@ This repository contains a curated list of papers focusing on the application of
 ## GNN
 
 ### 2024
-- <li><a target="_blank" href="https://github.com/danieloaAAU/Power_Control_GNN" style="text-decoration:none;">Learning Resource Allocation Policy: Vertex-GNN or Edge-GNN? </a></li>
+- [[IEEE TMLCN](https://ieeexplore.ieee.org/abstract/document/10401242)] Learning Resource Allocation Policy: Vertex-GNN or Edge-GNN?
   
 ### 2023
-- **[Graph Neural Networks for Wireless Communications: From Theory to Practice](pdfs/gnn/2023/Paper2.pdf)** 🔥 📖
-  [Code](https://github.com/yshenaw/GNN4Com)
-  
-### 2022
-- **[Title of Paper 3](pdfs/gnn/2022/Paper3.pdf)**  
-  Code: [Link to GitHub Repository](https://github.com/...)
+- [[IEEE TWC](https://ieeexplore.ieee.org/document/9944643)] Graph Neural Networks for Wireless Communications: From Theory to Practice [[Code](https://github.com/yshenaw/GNN4Com)] 🔥 📖
 
 ---
 
