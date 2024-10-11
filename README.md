@@ -15,6 +15,8 @@ Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
 
 ## Categories
 - [GNN (Graph Neural Networks)](#gnn)
+  - [2024](#gnn-2024)
+  - [2023](#gnn-2023)
 - [DRL (Deep Reinforcement Learning)](#drl)
 - [Multi-Layer Perceptron (MLP)](#mlp)
 
@@ -22,10 +24,10 @@ Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
 
 ## GNN
 
-### 2024
+### GNN 2024
 - [[IEEE TMLCN](https://ieeexplore.ieee.org/abstract/document/10401242)] Learning Resource Allocation Policy: Vertex-GNN or Edge-GNN?
   
-### 2023
+### GNN 2023
 - [[IEEE TWC](https://ieeexplore.ieee.org/document/9944643)] Graph Neural Networks for Wireless Communications: From Theory to Practice [[Code](https://github.com/yshenaw/GNN4Com)] 🔥 📖
 
 ---
