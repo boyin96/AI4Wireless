@@ -10,7 +10,8 @@ This repository contains a curated list of papers focusing on the application of
 | **`(i)iot.`**: (industrial) internet of thing | **`ns.`**: network slicing | **`ee.`**: max energy efficiency |
 | **`fl.`**: federated learning | **`ris.`**: reconfigurable intelligent surface | **`sum.`**: max sum rate |
 |**`ce.`**: channel estimation||**`pow.`**: min power|
-|||**`time.`**: min time-average error|
+|**`(o-)ran.`**: (open) radio access network||**`time.`**: min time-average error|
+|||**`sla.`**: min service-level agreement violation|
 
 Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
 
@@ -39,8 +40,7 @@ Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
 ## DRL
 
 ### 2024
-- **[Title of Paper 4](pdfs/drl/2024/Paper4.pdf)**  
-  Code: [Link to GitHub Repository](https://github.com/...)
+- [[IEEE TMC](https://ieeexplore.ieee.org/abstract/document/10721269)] O-RAN-enabled Intelligent Network Slicing to Meet Service-Level Agreement (SLA) [**`(o-)ran.`**, **`ns.`**, **`sla.`**] 
   
 ### 2023
 - **[Title of Paper 5](pdfs/drl/2023/Paper5.pdf)**  
