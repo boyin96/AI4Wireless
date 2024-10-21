@@ -28,6 +28,7 @@ Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
 ### GNN 2024
 - [[IEEE TMLCN](https://ieeexplore.ieee.org/abstract/document/10401242)] Learning Resource Allocation Policy: Vertex-GNN or Edge-GNN?
 - [[IEEE TCE](https://ieeexplore.ieee.org/abstract/document/10384798)] Investigating Large-Scale RIS-Assisted Wireless Communications Using GNN [**`ce.`**, **`ris.`**, **`sum.`**]
+- [[arXiv](https://arxiv.org/abs/2404.11858)] Graph Neural Networks for Wireless Networks: Graph Representation, Architecture and Evaluation 📖
   
 ### GNN 2023
 - [[IEEE TWC](https://ieeexplore.ieee.org/abstract/document/9944643)] Graph Neural Networks for Wireless Communications: From Theory to Practice [[Code](https://github.com/yshenaw/GNN4Com)] 🔥 📖
