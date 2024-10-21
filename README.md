@@ -9,7 +9,7 @@ This repository contains a curated list of papers focusing on the application of
 |------------- |-------------|-------------|
 | **`(i)iot.`**: (industrial) internet of thing | **`ns.`**: network slicing | **`ee.`**: max energy efficiency |
 | **`fl.`**: federated learning | **`ris.`**: reconfigurable intelligent surface | **`sum.`**: max sum rate |
-|||**`pow.`**: min power|
+|**`ce.`**: channel estimation||**`pow.`**: min power|
 |||**`time.`**: min time-average error|
 
 Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
@@ -27,9 +27,10 @@ Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
 
 ### GNN 2024
 - [[IEEE TMLCN](https://ieeexplore.ieee.org/abstract/document/10401242)] Learning Resource Allocation Policy: Vertex-GNN or Edge-GNN?
+- [[IEEE TCE](https://ieeexplore.ieee.org/abstract/document/10384798)] Investigating Large-Scale RIS-Assisted Wireless Communications Using GNN [**`ce.`**, **`ris.`**, **`sum.`**]
   
 ### GNN 2023
-- [[IEEE TWC](https://ieeexplore.ieee.org/document/9944643)] Graph Neural Networks for Wireless Communications: From Theory to Practice [[Code](https://github.com/yshenaw/GNN4Com)] 🔥 📖
+- [[IEEE TWC](https://ieeexplore.ieee.org/abstract/document/9944643)] Graph Neural Networks for Wireless Communications: From Theory to Practice [[Code](https://github.com/yshenaw/GNN4Com)] 🔥 📖
 - [[IEEE TWC](https://ieeexplore.ieee.org/abstract/document/10032291)] A Graph Neural Network Learning Approach to Optimize RIS-Assisted Federated Learning [**`fl.`**, **`ris.`**, **`time.`**] 🔥
 
 ---
