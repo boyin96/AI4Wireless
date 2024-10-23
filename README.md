@@ -41,6 +41,7 @@ Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
 - [[IEEE ICC](https://ieeexplore.ieee.org/abstract/document/10278986)] Cooperative Beamforming and RISs Association for Multi-RISs Aided Multi-Users MmWave MIMO Systems Through Graph Neural Networks [**`mmW.`**, **`ris.`**, **`sum.`**]
 - [[IEEE SSP](https://ieeexplore.ieee.org/abstract/document/10207958)] Graph Neural Network Based Beamforming and RIS Reflection Design in A Multi-RIS Assisted Wireless Network [**`ris.`**, **`sum.`**]
 - [[IEEE WCL](https://ieeexplore.ieee.org/abstract/document/10184122)] Graph Neural Network-Based Joint Beamforming for Hybrid Relay and Reconfigurable Intelligent Surface Aided Multiuser Systems [**`ris.`**, **`sum.`**]
+- [[IEEE CM](https://ieeexplore.ieee.org/abstract/document/10103772)] Graph Representation Learning for Wireless Communications 📖
 
 ### GNN 2022
 - [[IEEE J-STSP](https://ieeexplore.ieee.org/abstract/document/9783100)] Learning Based User Scheduling in Reconfigurable Intelligent Surface Assisted Multiuser Downlink [**`us.`**, **`ris.`**, **`sum.`**] 🔥
