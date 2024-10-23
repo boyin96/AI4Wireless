@@ -36,7 +36,6 @@ Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
 - [[IEEE ICC](https://ieeexplore.ieee.org/abstract/document/10622705)] Beamforming and Load-Balanced User Association in RIS-Aided Systems via Graph Neural Networks [**`lb.`**, **`ris.`**, **`sum.`**]
   
 ### GNN 2023
-- [[IEEE TWC](https://ieeexplore.ieee.org/abstract/document/9944643)] Graph Neural Networks for Wireless Communications: From Theory to Practice [[Code](https://github.com/yshenaw/GNN4Com)] 🔥 📖
 - [[IEEE TWC](https://ieeexplore.ieee.org/abstract/document/10032291)] A Graph Neural Network Learning Approach to Optimize RIS-Assisted Federated Learning [**`fl.`**, **`ris.`**, **`time.`**] 🔥
 - [[IEEE ICC](https://ieeexplore.ieee.org/abstract/document/10278986)] Cooperative Beamforming and RISs Association for Multi-RISs Aided Multi-Users MmWave MIMO Systems Through Graph Neural Networks [**`mmW.`**, **`ris.`**, **`sum.`**]
 - [[IEEE SSP](https://ieeexplore.ieee.org/abstract/document/10207958)] Graph Neural Network Based Beamforming and RIS Reflection Design in A Multi-RIS Assisted Wireless Network [**`ris.`**, **`sum.`**]
@@ -44,6 +43,7 @@ Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
 - [[IEEE CM](https://ieeexplore.ieee.org/abstract/document/10103772)] Graph Representation Learning for Wireless Communications 📖
 
 ### GNN 2022
+- [[IEEE TWC](https://ieeexplore.ieee.org/abstract/document/9944643)] Graph Neural Networks for Wireless Communications: From Theory to Practice [[Code](https://github.com/yshenaw/GNN4Com)] 🔥 📖
 - [[IEEE J-STSP](https://ieeexplore.ieee.org/abstract/document/9783100)] Learning Based User Scheduling in Reconfigurable Intelligent Surface Assisted Multiuser Downlink [**`us.`**, **`ris.`**, **`sum.`**] 🔥
 - [[IEEE ICASSP](https://ieeexplore.ieee.org/abstract/document/9746441)] User Scheduling Using Graph Neural Networks for Reconfigurable Intelligent Surface Assisted Multiuser Downlink Communications [**`us.`**, **`ris.`**, **`sum.`**]
 
