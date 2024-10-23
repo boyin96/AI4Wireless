@@ -8,10 +8,11 @@ This repository contains a curated list of papers focusing on the application of
 |  Background  |  Techniques  |  Goals  |
 |------------- |-------------|-------------|
 | **`(i)iot.`**: (industrial) internet of thing | **`ns.`**: network slicing | **`ee.`**: max energy efficiency |
-| **`fl.`**: federated learning | **`ris.`**: reconfigurable intelligent surface | **`sum.`**: max sum rate |
+| **`fl.`**: federated learning | **`ris.`**: reconfigurable intelligent surface | **`sum.`**: max (weighted) sum rate |
 |**`ce.`**: channel estimation||**`pow.`**: min power|
 |**`(o-)ran.`**: (open) radio access network||**`time.`**: min time-average error|
-|||**`sla.`**: min service-level agreement violation|
+|**`mmW.`**: millimeter wave||**`sla.`**: min service-level agreement violation|
+|**`us.`**: user scheduling|||
 
 Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
 
@@ -19,6 +20,7 @@ Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
 - [GNN (Graph Neural Networks)](#gnn)
   - [2024](#gnn-2024)
   - [2023](#gnn-2023)
+  - [2022](#gnn-2022)
 - [DRL (Deep Reinforcement Learning)](#drl)
 - [Multi-Layer Perceptron (MLP)](#mlp)
 
@@ -34,6 +36,11 @@ Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
 ### GNN 2023
 - [[IEEE TWC](https://ieeexplore.ieee.org/abstract/document/9944643)] Graph Neural Networks for Wireless Communications: From Theory to Practice [[Code](https://github.com/yshenaw/GNN4Com)] 🔥 📖
 - [[IEEE TWC](https://ieeexplore.ieee.org/abstract/document/10032291)] A Graph Neural Network Learning Approach to Optimize RIS-Assisted Federated Learning [**`fl.`**, **`ris.`**, **`time.`**] 🔥
+- [[IEEE ICC](https://ieeexplore.ieee.org/abstract/document/10278986)] Cooperative Beamforming and RISs Association for Multi-RISs Aided Multi-Users MmWave MIMO Systems Through Graph Neural Networks [**`mmW.`**, **`ris.`**, **`sum.`**]
+
+### GNN 2022
+- [[IEEE J-STSP](https://ieeexplore.ieee.org/abstract/document/9783100)] Learning Based User Scheduling in Reconfigurable Intelligent Surface Assisted Multiuser Downlink [**`us.`**, **`ris.`**, **`sum.`**] 🔥
+- [[IEEE ICASSP](https://ieeexplore.ieee.org/abstract/document/9746441)] User Scheduling Using Graph Neural Networks for Reconfigurable Intelligent Surface Assisted Multiuser Downlink Communications [**`us.`**, **`ris.`**, **`sum.`**] 🔥
 
 ---
 
