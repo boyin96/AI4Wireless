@@ -22,6 +22,7 @@ Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
   - [2024](#gnn-2024)
   - [2023](#gnn-2023)
   - [2022](#gnn-2022)
+  - [2021](#gnn-2021)
 - [DRL (Deep Reinforcement Learning)](#drl)
 - [Multi-Layer Perceptron (MLP)](#mlp)
 
@@ -46,6 +47,9 @@ Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
 - [[IEEE TWC](https://ieeexplore.ieee.org/abstract/document/9944643)] Graph Neural Networks for Wireless Communications: From Theory to Practice [[Code](https://github.com/yshenaw/GNN4Com)] 🔥 📖
 - [[IEEE J-STSP](https://ieeexplore.ieee.org/abstract/document/9783100)] Learning Based User Scheduling in Reconfigurable Intelligent Surface Assisted Multiuser Downlink [**`us.`**, **`ris.`**, **`sum.`**] 🔥
 - [[IEEE ICASSP](https://ieeexplore.ieee.org/abstract/document/9746441)] User Scheduling Using Graph Neural Networks for Reconfigurable Intelligent Surface Assisted Multiuser Downlink Communications [**`us.`**, **`ris.`**, **`sum.`**]
+
+### GNN 2021
+- [[IEEE J-SAC](https://ieeexplore.ieee.org/abstract/document/9427148)] Learning to Reflect and to Beamform for Intelligent Reflecting Surface With Implicit Channel Estimation [**`ce.`**, **`ris.`**, **`sum.`**] 🔥
 
 ---
 
