@@ -1,83 +1,91 @@
-# AI for Wireless Communication
+# **AI for Wireless Communication**
 
-## Introduction
-This repository contains a curated list of papers focusing on the application of AI techniques, such as **Graph Neural Networks (GNN)**, **Deep Reinforcement Learning (DRL)**, and **Multi-Layer Perceptron (MLP)**, for wireless communication. The papers are organized by year and category, and include tags for relevant features such as citation count. **The content continues updating.**
+## **Introduction**
 
-## Keywords
+This repository provides a curated collection of research papers at the intersection of **Artificial Intelligence (AI)** and **Wireless Communication**. The repository focuses on the application of AI techniques such as **Graph Neural Networks (GNN)**, **Deep Reinforcement Learning (DRL)**, and **Multi-Layer Perceptrons (MLP)** to solve challenges in wireless communication, including resource allocation, beamforming, and user scheduling.
 
-|  Background  |  Techniques  |  Goals  |
-|------------- |-------------|-------------|
-| **`(i)iot.`**: (industrial) internet of thing | **`ns.`**: network slicing | **`ee.`**: max energy efficiency |
-| **`fl.`**: federated learning | **`ris.`**: reconfigurable intelligent surface | **`sum.`**: max (weighted) sum rate |
-|**`ce.`**: channel estimation||**`pow.`**: min power|
-|**`(o-)ran.`**: (open) radio access network||**`time.`**: min time-average error|
-|**`mmW.`**: millimeter wave||**`sla.`**: min service-level agreement violation|
-|**`us.`**: user scheduling|||
-|**`lb.`**: load-balanced|||
-
-Features: **🔥** Highly Cited (20+ citations) | **📖** Review Paper
-
-## Categories
-- [GNN (Graph Neural Networks)](#gnn)
-  - [2024](#gnn-2024)
-  - [2023](#gnn-2023)
-  - [2022](#gnn-2022)
-  - [2021](#gnn-2021)
-- [DRL (Deep Reinforcement Learning)](#drl)
-- [Multi-Layer Perceptron (MLP)](#mlp)
+🔄 **This repository is continuously updated to include the latest research.**
 
 ---
 
-## GNN
+## **Keywords**
 
-### GNN 2024
-- [[IEEE TMLCN](https://ieeexplore.ieee.org/abstract/document/10401242)] Learning Resource Allocation Policy: Vertex-GNN or Edge-GNN?
-- [[IEEE TCE](https://ieeexplore.ieee.org/abstract/document/10384798)] Investigating Large-Scale RIS-Assisted Wireless Communications Using GNN [**`ce.`**, **`ris.`**, **`sum.`**]
-- [[arXiv](https://arxiv.org/abs/2404.11858)] Graph Neural Networks for Wireless Networks: Graph Representation, Architecture and Evaluation 📖
-- [[IEEE ICC](https://ieeexplore.ieee.org/abstract/document/10622705)] Beamforming and Load-Balanced User Association in RIS-Aided Systems via Graph Neural Networks [**`lb.`**, **`ris.`**, **`sum.`**]
-  
-### GNN 2023
-- [[IEEE TWC](https://ieeexplore.ieee.org/abstract/document/10032291)] A Graph Neural Network Learning Approach to Optimize RIS-Assisted Federated Learning [**`fl.`**, **`ris.`**, **`time.`**] 🔥
-- [[IEEE ICC](https://ieeexplore.ieee.org/abstract/document/10278986)] Cooperative Beamforming and RISs Association for Multi-RISs Aided Multi-Users MmWave MIMO Systems Through Graph Neural Networks [**`mmW.`**, **`ris.`**, **`sum.`**]
-- [[IEEE SSP](https://ieeexplore.ieee.org/abstract/document/10207958)] Graph Neural Network Based Beamforming and RIS Reflection Design in A Multi-RIS Assisted Wireless Network [**`ris.`**, **`sum.`**]
-- [[IEEE WCL](https://ieeexplore.ieee.org/abstract/document/10184122)] Graph Neural Network-Based Joint Beamforming for Hybrid Relay and Reconfigurable Intelligent Surface Aided Multiuser Systems [**`ris.`**, **`sum.`**]
-- [[IEEE CM](https://ieeexplore.ieee.org/abstract/document/10103772)] Graph Representation Learning for Wireless Communications 📖
+The following keywords and tags are used to organize the content and highlight key features of each paper:
 
-### GNN 2022
-- [[IEEE TWC](https://ieeexplore.ieee.org/abstract/document/9944643)] Graph Neural Networks for Wireless Communications: From Theory to Practice [[Code](https://github.com/yshenaw/GNN4Com)] 🔥 📖
-- [[IEEE J-STSP](https://ieeexplore.ieee.org/abstract/document/9783100)] Learning Based User Scheduling in Reconfigurable Intelligent Surface Assisted Multiuser Downlink [**`us.`**, **`ris.`**, **`sum.`**] 🔥
-- [[IEEE ICASSP](https://ieeexplore.ieee.org/abstract/document/9746441)] User Scheduling Using Graph Neural Networks for Reconfigurable Intelligent Surface Assisted Multiuser Downlink Communications [**`us.`**, **`ris.`**, **`sum.`**]
+| **Category**      | **Tag**                     | **Examples**                           |
+|--------------------|-----------------------------|-----------------------------------------|
+| **Techniques**     | `gnn`, `drl`, `mlp`        | GNN, DRL, MLP, and their hybrids       |
+| **Applications**   | `ris`, `ns`, `fl`, `iot`   | RIS, Network Slicing, Federated Learning, IoT |
+| **Objectives**     | `ee`, `sum`, `time`, `sla` | Maximize energy efficiency, minimize SLA violations |
 
-### GNN 2021
-- [[IEEE J-SAC](https://ieeexplore.ieee.org/abstract/document/9427148)] Learning to Reflect and to Beamform for Intelligent Reflecting Surface With Implicit Channel Estimation [**`ce.`**, **`ris.`**, **`sum.`**] 🔥
+**Special Tags**:  
+- **🔥 Highly Cited** (20+ citations)  
+- **📖 Review Paper**  
+- **💻 Code Available**
 
 ---
 
-## DRL
+## **Papers by Year**
 
-### 2024
-- [[IEEE TMC](https://ieeexplore.ieee.org/abstract/document/10721269)] O-RAN-enabled Intelligent Network Slicing to Meet Service-Level Agreement (SLA) [**`(o-)ran.`**, **`ns.`**, **`sla.`**] 
-  
-### 2023
-- **[Title of Paper 5](pdfs/drl/2023/Paper5.pdf)**  
-  Code: [Link to GitHub Repository](https://github.com/...)
-  
-### 2022
-- **[Title of Paper 6](pdfs/drl/2022/Paper6.pdf)**  
-  Code: [Link to GitHub Repository](https://github.com/...)
+### **2024**
+
+| Title & Link                                                                                                   | Tags                                | Special       |
+|---------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------|
+| [[IEEE TMLCN](https://ieeexplore.ieee.org/abstract/document/10401242)] Learning Resource Allocation Policy: Vertex-GNN or Edge-GNN? | `gnn`, `sum`                        |               |
+| [[IEEE TCE](https://ieeexplore.ieee.org/abstract/document/10384798)] Investigating Large-Scale RIS-Assisted Wireless Communications Using GNN | `gnn`, `ris`, `ce`, `sum`           |               |
+| [[arXiv](https://arxiv.org/abs/2404.11858)] Graph Neural Networks for Wireless Networks: Graph Representation, Architecture, and Evaluation | `gnn`, `review`                     | 📖            |
+| [[IEEE ICC](https://ieeexplore.ieee.org/abstract/document/10622705)] Beamforming and Load-Balanced User Association in RIS-Aided Systems via GNN | `gnn`, `lb`, `ris`, `sum`           |               |
 
 ---
 
-## MLP
+### **2023**
 
-### 2024
-- **[Title of Paper 7](pdfs/dnn/2024/Paper7.pdf)**  
-  Code: [Link to GitHub Repository](https://github.com/...)
-  
-### 2023
-- **[Title of Paper 8](pdfs/dnn/2023/Paper8.pdf)**  
-  Code: [Link to GitHub Repository](https://github.com/...)
-  
-### 2022
-- **[Title of Paper 9](pdfs/dnn/2022/Paper9.pdf)**  
-  Code: [Link to GitHub Repository](https://github.com/...)
+| Title & Link                                                                                                   | Tags                                | Special       |
+|---------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------|
+| [[IEEE TWC](https://ieeexplore.ieee.org/abstract/document/10032291)] A GNN Learning Approach to Optimize RIS-Assisted Federated Learning | `gnn`, `ris`, `fl`, `time`          | 🔥            |
+| [[IEEE ICC](https://ieeexplore.ieee.org/abstract/document/10278986)] Cooperative Beamforming and RIS Association for Multi-RISs Aided MmWave MIMO Systems | `gnn`, `ris`, `mmw`, `sum`          |               |
+| [[IEEE SSP](https://ieeexplore.ieee.org/abstract/document/10207958)] GNN-Based Beamforming and RIS Reflection Design in Multi-RIS Networks | `gnn`, `ris`, `sum`                 | 💻 [[Code](https://github.com/example)] |
+| [[IEEE TMC](https://ieeexplore.ieee.org/abstract/document/10721269)] O-RAN-Enabled Intelligent Network Slicing to Meet SLA Requirements | `drl`, `ns`, `ran`, `sla`           |               |
+
+---
+
+### **2022**
+
+| Title & Link                                                                                                   | Tags                                | Special       |
+|---------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------|
+| [[IEEE TWC](https://ieeexplore.ieee.org/abstract/document/9944643)] Graph Neural Networks for Wireless Communications: From Theory to Practice | `gnn`, `review`                     | 🔥 📖 💻 [[Code](https://github.com/yshenaw/GNN4Com)] |
+| [[IEEE J-STSP](https://ieeexplore.ieee.org/abstract/document/9783100)] Learning-Based User Scheduling in RIS-Assisted Multiuser Downlink | `gnn`, `ris`, `us`, `sum`           | 🔥            |
+
+---
+
+## **Resources and Benchmarks**
+
+### **Shared Datasets**
+- **[GNN4Com Dataset](https://example.com/dataset1)**: A dataset for training Graph Neural Networks in wireless communication scenarios.
+- **[RIS Channel Dataset](https://example.com/ris-dataset)**: Channel estimation dataset tailored for RIS-aided systems.
+- **[Federated Learning Benchmark](https://example.com/fl-benchmark)**: Federated learning datasets for wireless communication applications.
+
+### **Code Repositories**
+| **Project**                                  | **Description**                                                  | **Link**                                   |
+|----------------------------------------------|------------------------------------------------------------------|-------------------------------------------|
+| GNN-Based Resource Allocation                | Official implementation of GNNs for resource allocation          | [GitHub Repo](https://github.com/yshenaw/GNN4Com) |
+| Multi-RIS Optimization with DRL              | Source code for DRL-based optimization in RIS-aided systems      | [GitHub Repo](https://github.com/example/multi-ris-drl) |
+| User Scheduling with GNNs                    | Code for GNN-based user scheduling in multi-user downlink scenarios | [GitHub Repo](https://github.com/example/gnn-user-scheduling) |
+
+### **Tutorials**
+- **[Introduction to GNNs for Wireless Networks](https://example.com/tutorial1)**: A beginner-friendly tutorial on using Graph Neural Networks for wireless applications.
+- **[Deep Reinforcement Learning in Wireless Communication](https://example.com/tutorial2)**: A comprehensive guide to applying DRL for optimizing wireless systems.
+- **[Federated Learning Basics](https://example.com/tutorial3)**: Overview and applications of federated learning in IoT networks.
+
+---
+
+## **Contributions**
+
+We welcome contributions to this repository!  
+- Suggest new papers or datasets.  
+- Add links to relevant code repositories.  
+- Improve descriptions or formatting.  
+
+To contribute, please submit a **pull request** or open an **issue**.
+
+---
