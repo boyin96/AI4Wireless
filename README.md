@@ -17,7 +17,7 @@ The following keywords and tags are used to organize the content and highlight k
 | **Category**      | **Tag**                     | **Examples**                           |
 |--------------------|-----------------------------|-----------------------------------------|
 | **AI Techniques**     | **`gnn`**, **`drl`**, **`mlp`**        | GNN, DRL, and MLP      |
-| **Applications**   | **`ris`**, **`ns`**, **`fl`**, **`iot`**, **`mmw`**, **`ran`**  | Reconfigurable Intelligent Surface, Network Slicing, Federated Learning, IoT, mmWave, Radio Access Network |
+| **Applications**   | **`ris`**, **`ns`**, **`fl`**, **`iot`**, **`mmw`**, **`ran`**  | Reconfigurable Intelligent Surface, Network Slicing, Federated Learning, Internet of Things, mmWave, Radio Access Network |
 | **Objectives**     | **`ee`**, **`sum`**, **`time`**, **`sla`** | Energy efficiency, Sum-rate, Time-average, Service-Level Agreement|
 
 **Special Tags**:  
