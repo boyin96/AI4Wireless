@@ -48,6 +48,8 @@ The following keywords and tags are used to organize the content and highlight k
 | [[IEEE TWC](https://ieeexplore.ieee.org/abstract/document/10032291)] *A GNN Learning Approach to Optimize RIS-Assisted Federated Learning* | **`gnn`**, **`ris`**, **`fl`**, **`time`**          | 🔥            |
 | [[IEEE ICC](https://ieeexplore.ieee.org/abstract/document/10278986)] *Cooperative Beamforming and RISs Association for Multi-RISs Aided Multi-Users MmWave MIMO Systems Through Graph Neural Networks* | **`gnn`**, **`ris`**, **`mmw`**, **`sum`**          |               |
 | [[IEEE SSP](https://ieeexplore.ieee.org/abstract/document/10207958)] *Graph Neural Network Based Beamforming and RIS Reflection Design in A Multi-RIS Assisted Wireless Network* | **`gnn`**, **`ris`**, **`sum`**                 |   |
+| [[IEEE CS&T](https://ieeexplore.ieee.org/abstract/document/10361836)] *A Survey on Model-Based, Heuristic, and Machine Learning Optimization Approaches in RIS-Aided Wireless Networks*| **`ris`**                   | 📖 |
+| [[IEEE ICC](https://ieeexplore.ieee.org/abstract/document/10283517)] *[Deep Reinforcement Learning Based Joint Downlink Beamforming and RIS Configuration in RIS-Aided MU-MISO Systems Under Hardware Impairments and Imperfect CSI](https://github.com/baturaysaglam/RIS-MISO-PDA-Deep-Reinforcement-Learning)*| **`drl`**, **`ris`**, **`sum`**                   | 💻  |
 
 ---
 
@@ -57,6 +59,14 @@ The following keywords and tags are used to organize the content and highlight k
 |---------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------|
 | [[IEEE TWC](https://ieeexplore.ieee.org/abstract/document/9944643)] *[Graph Neural Networks for Wireless Communications: From Theory to Practice](https://github.com/yshenaw/GNN4Com)*| **`gnn`**                   | 🔥 📖 💻  |
 | [[IEEE J-STSP](https://ieeexplore.ieee.org/abstract/document/9783100)] *Learning Based User Scheduling in Reconfigurable Intelligent Surface Assisted Multiuser Downlink* | **`gnn`**, **`ris`**, **`sum`**           | 🔥            |
+
+---
+
+### **2020**
+
+| Title & Link                                                                                                   | Tags                                | Special       |
+|---------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------|
+| [[IEEE J-SAC](https://ieeexplore.ieee.org/abstract/document/9110869)] *[Reconfigurable Intelligent Surface Assisted Multiuser MISO Systems Exploiting Deep Reinforcement Learning](https://github.com/baturaysaglam/RIS-MISO-Deep-Reinforcement-Learning)*| **`drl`**, **`ris`**, **`sum`**                   | 🔥 💻  |
 
 ---
 
