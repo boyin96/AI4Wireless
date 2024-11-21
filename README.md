@@ -56,7 +56,7 @@ The following keywords and tags are used to organize the content and highlight k
 | Title & Link                                                                                                   | Tags                                | Special       |
 |---------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------|
 | [[IEEE TWC](https://ieeexplore.ieee.org/abstract/document/9944643)] *[Graph Neural Networks for Wireless Communications: From Theory to Practice](https://github.com/yshenaw/GNN4Com)*| **`gnn`**                   | 🔥 📖 💻  |
-| [[IEEE J-STSP](https://ieeexplore.ieee.org/abstract/document/9783100)] *Learning-Based User Scheduling in RIS-Assisted Multiuser Downlink* | **`gnn`**, **`ris`**, **`sum`**           | 🔥            |
+| [[IEEE J-STSP](https://ieeexplore.ieee.org/abstract/document/9783100)] *Learning Based User Scheduling in Reconfigurable Intelligent Surface Assisted Multiuser Downlink* | **`gnn`**, **`ris`**, **`sum`**           | 🔥            |
 
 ---
 
